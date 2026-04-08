@@ -116,7 +116,7 @@ The 2024 and 2025 editions took on special significance as preparatory events fo
 - Hosted and convened by [[itu]]; co-organised with [[undp]], [[unesco]], [[unctad]]
 - Reviews progress on all eleven Action Lines from [[geneva-plan-of-action]]
 - WSIS Prizes align with WSIS Action Lines and [[sdgs]]
-- 2024 and 2025 editions served as preparatory platforms for [[wsis-review-2025]] (UNGA WSIS+20 Overall Review, December 2025)
+- 2024 and 2025 editions served as preparatory platforms for [[wsis-review-2025]] (UNGA WSIS+20 Overall Review, December 2025); full preparatory process at [[wsis-plus20-preparatory-process]]
 - Works in synergy with [[internet-governance-forum]] (many participants attend both)
 - Covers [[global-digital-compact]] topics increasingly from 2024 onwards
 - Reports to ECOSOC and CSTD in the UN system

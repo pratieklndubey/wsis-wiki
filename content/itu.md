@@ -115,7 +115,7 @@ The published WSIS Outcome Documents (Geneva 2006) carry a foreword by Yoshio Ut
 - One of three lead WSIS implementation agencies alongside [[undp]] and [[unesco]]
 - Hosts and co-organises the annual [[wsis-forum]]
 - Permanent secretariat of UNGIS
-- Supported [[wsis-review-2015]] (WSIS+10) and is leading preparatory work for [[wsis-review-2025]] (WSIS+20)
+- Supported [[wsis-review-2015]] (WSIS+10) and co-led the [[wsis-plus20-preparatory-process]] (2022–2025) culminating in [[wsis-review-2025]]
 - Institutional tension with ICANN, ISOC, IETF over Internet governance model
 - Supports [[internet-governance-forum]] but is not its host (UN DESA hosts)
 - Partner in [[global-digital-compact]] implementation through AI for Good, UNGIS-GDC Matrix

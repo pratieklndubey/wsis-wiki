@@ -144,6 +144,7 @@ The high-level meeting adopted [[unga-res-80-173]] on 17 December 2025. Key prov
 - Aligned with [[sdgs]] and 2030 Agenda; resolution to be submitted as input to SDG review (2030)
 - Part of full WSIS process lineage: [[wsis-phase-i-geneva-2003]] → [[wsis-phase-ii-tunis-2005]] → [[wsis-review-2015]] → WSIS+20 → WSIS+30 (2035)
 - Mandated implementation roadmaps for all [[wsis-action-lines]] by 2027
+- Multi-year preparatory process (2022–2025) documented at [[wsis-plus20-preparatory-process]]
 
 ## Open Questions
 - The IGF is now "permanent" but sustainable funding was still to be proposed — has the 80th UNGA session funded the IGF's secretariat adequately?
